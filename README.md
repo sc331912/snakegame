@@ -1,16 +1,21 @@
 # 🐍 Snake Quest: A Game Full of Venom
 
-Step into the world of **Snake Quest**, where every move matters and every bite makes you stronger.  
-Built from scratch using **HTML, CSS, and JavaScript**, this game blends classic nostalgia with a dark, funky vibe and immersive sound effects.
+![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+> Step into the world of **Snake Quest**, where every move matters and every bite makes you stronger.  
+> A modern twist on the classic snake game with a dark, funky vibe and immersive sound effects.
 
 ---
 
 ## 🎮 Features
 - ⚡ Smooth and responsive controls  
 - 🍎 Dynamic food & score system  
-- 💀 Game over logic with challenge factor  
-- 🔊 Interactive sound effects for a more immersive feel  
-- 🎨 Minimal yet stylish dark-themed design  
+- 💀 Game over logic with increasing challenge  
+- 🔊 Interactive sound effects  
+- 🎨 Stylish dark-themed UI  
 
 ---
 
@@ -23,6 +28,7 @@ Built from scratch using **HTML, CSS, and JavaScript**, this game blends classic
 
 ## 📂 Project Structure
 
+```
 snake-game/
 │
 ├── index.html
@@ -30,6 +36,7 @@ snake-game/
 │   └── style.css
 ├── js/
 │   └── index.js
+```
 
 ---
 
